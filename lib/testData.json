@@ -1,0 +1,88 @@
+{
+  "data":{
+    "person":{
+      "name":"Jonathan Ortiz",
+      "title":"Software Engineer|Javascript",
+      "email":"jonathan@hotsushii.com",
+      "location":"San Francisco, CA",
+      "isEmployed":true,
+      "employer": "Adobe Systems Inc|August - 2016",
+      "yearsExp": 5,
+      "imgUrl":"/default.jpg",
+      "appName":"joortiz.io/",
+      "mobile":"408.609.1239",
+      "email":"jonathan@hotsushii.com",
+      "sushi":"https://hotsushii.com",
+      "skills":[
+        "JavaScript", "Webpack", "Python", "SaaS", "Linux", "React"
+      ],
+      "hobbies":[
+        "Cooking", "Basketball", "RaspberryPi", "Coding"
+      ]
+    },
+      "quotes":[
+
+              {
+                "id":"000001",
+                "author":"James Allen",
+                "quote":"A man is literally what he thinks, his character being the complete sum of all his thoughts."
+              },
+              {
+                "id":"000002",
+                "author":"James Allen",
+                "quote":"He thinks in secret, and it comes to pass: Environment is but his looking-glass."
+              },
+              {
+                "id":"000003",
+                "author":"Mark Twain",
+                "quote":"I've lived through some terrible things in my life, some of which actually happened."
+              },
+              {
+                "id":"000004",
+                "author":"Wallace D. Wattles",
+                "quote":"... because all things have contributed to your advancement, you should include all things in your gratitude."
+              },
+              {
+                "id":"000005",
+                "author":"Chuck Geschke",
+                "quote":"We're going to out-invent the bastards!"
+              },
+              {
+                "id":"000006",
+                "author":"Wallace D. Wattles",
+                "quote":"By thought, the thing you want is brought to you; by action you receive it."
+              },
+              {
+                "id":"000007",
+                "author":"Mark Twain",
+                "quote":"You can’t depend on your eyes when your imagination is out of focus."
+              },
+              {
+                "id":"000008",
+                "author":"Bruce Lee",
+                "quote":"Adapt what is useful, reject what is useless, and add what is specifically your own."
+              },
+              {
+                "id":"000009",
+                "author":"Wallace D. Wattles",
+                "quote":"The very best thing you can do for the whole world is to make the most of yourself."
+              },
+              {
+                "id":"000010",
+                "author":"Mahatma Gandhi",
+                "quote":"Live as if your were to die tomorrow, Learn as if you were to live forever."
+              },
+              {
+                "id":"000011",
+                "author":"French Montana",
+                "quote":"I'm ALL THE WAY UP!"
+              },
+              {
+                "id":"000012",
+                "author":"Tony Montana",
+                "quote":"The World is Yours."
+              }
+      ]
+
+  }
+}
